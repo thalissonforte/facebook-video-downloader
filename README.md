@@ -1,10 +1,8 @@
-# Password Generator (Batman Theme)
-
-A simple and compact password generator for real world heroes.
+# Facebook Video Downloader (Public & Private videos)
 
 ## Preview
 
-![GIF Preview](img/passwordgenerator.gif)
+![PNG Preview](img/preview.png)
 
 ## Download
 
@@ -20,7 +18,7 @@ After downloading, move this files to your web server. And finally, open the `in
 
 ## About
 
-This Password Generator was created for the purpose of improve knowledge about HTML, CSS and JS.
+This Video Downloader was created for the purpose of improve knowledge about HTML, CSS and JS.
 
 The project was developed by **[Thalisson Forte](http://github.com/thalissonforte)**.
 
