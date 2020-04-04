@@ -8,7 +8,7 @@
 
 To begin using this generator:
 
-* Clone the repo: `git clone https://github.com/thalissonforte/password-generator-js`
+* Clone the repo: `git clone https://github.com/thalissonforte/facebook-video-downloader`
 
 ## Usage
 
